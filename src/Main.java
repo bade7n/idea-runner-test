@@ -3,6 +3,6 @@ public class Main {
         String s = "1";
         System.out.println(s.isBlank());
 
-        String d = "2";
+        String d = "3";
     }
 }
